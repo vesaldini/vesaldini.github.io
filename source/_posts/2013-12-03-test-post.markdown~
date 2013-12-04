@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Test post"
+date: 2013-12-03 17:34:42 -0800
+comments: true
+categories: 
+---
+
+<section class="home-left">
+Test post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc fermentum eget enim non commodo. Ut eu mi cursus eros suscipit pretium vel vel turpis. Sed a enim posuere, venenatis magna ac, venenatis dui. Nulla mollis leo eget leo adipiscing, non cursus diam sodales. Quisque pulvinar urna velit, a dapibus libero varius vitae. Phasellus sit amet sollicitudin sem. Praesent consequat suscipit justo vitae viverra. Praesent vulputate quis nulla at luctus. Duis magna ligula, adipiscing id mattis nec, cursus vel elit. Mauris facilisis, libero et volutpat lacinia, enim justo scelerisque eros, vel dapibus velit elit ac quam. Sed urna odio, hendrerit ut leo a, commodo feugiat libero. Praesent sit amet diam ac lectus consequat rhoncus vitae ut sem.</section>
+
+<section class="home-right">
+Test post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc fermentum eget enim non commodo. Ut eu mi cursus eros suscipit pretium vel vel turpis. Sed a enim posuere, venenatis magna ac, venenatis dui. Nulla mollis leo eget leo adipiscing, non cursus diam sodales. Quisque pulvinar urna velit, a dapibus libero varius vitae. Phasellus sit amet sollicitudin sem. Praesent consequat suscipit justo vitae viverra. Praesent vulputate quis nulla at luctus. Duis magna ligula, adipiscing id mattis nec, cursus vel elit. Mauris facilisis, libero et volutpat lacinia, enim justo scelerisque eros, vel dapibus velit elit ac quam. Sed urna odio, hendrerit ut leo a, commodo feugiat libero. Praesent sit amet diam ac lectus consequat rhoncus vitae ut sem.</section>
+
+<section class="full">
+
+<h2><a href="{{ site.url }}/assets/mydoc.pdf">Test Heading 2 In a Post</a></h2>
+
+Test post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc fermentum eget enim non commodo. Ut eu mi cursus eros suscipit pretium vel vel turpis. Sed a enim posuere, venenatis magna ac, venenatis dui. Nulla mollis leo eget leo adipiscing, non cursus diam sodales. Quisque pulvinar urna velit, a dapibus libero varius vitae. Phasellus sit amet sollicitudin sem. Praesent consequat suscipit justo vitae viverra. Praesent vulputate quis nulla at luctus. Duis magna ligula, adipiscing id mattis nec, cursus vel elit. Mauris facilisis, libero et volutpat lacinia, enim justo scelerisque eros, vel dapibus velit elit ac quam. Sed urna odio, hendrerit ut leo a, commodo feugiat libero. Praesent sit amet diam ac lectus consequat rhoncus vitae ut sem.</section>

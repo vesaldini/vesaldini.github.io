@@ -1,0 +1,20 @@
+---
+layout: page
+title: "Resources"
+date: 2013-12-03 18:40
+comments: true
+sharing: true
+footer: true
+---
+<section id="full"><h4>Test Heading 6 In a Post</h4></section>
+<section id="home-left">
+<h2><a href="{{ site.url }}/assets/mydoc.pdf">Test Heading 2 In a Post</a></h2>
+Test post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc fermentum eget enim non commodo. Ut eu mi cursus eros suscipit pretium vel vel turpis. Sed a enim posuere, venenatis magna ac, venenatis dui. Nulla mollis leo eget leo adipiscing, non cursus diam sodales. Quisque pulvinar urna velit, a dapibus libero varius vitae. Phasellus sit amet sollicitudin sem. Praesent consequat suscipit justo vitae viverra. Praesent vulputate quis nulla at luctus. Duis magna ligula, adipiscing id mattis nec, cursus vel elit. Mauris facilisis, libero et volutpat lacinia, enim justo scelerisque eros, vel dapibus velit elit ac quam. Sed urna odio, hendrerit ut leo a, commodo feugiat libero. Praesent sit amet diam ac lectus consequat rhoncus vitae ut sem.</section>
+
+<section id="home-right">
+<h2><a href="{{ site.url }}/assets/mydoc.pdf">Test Heading 2 In a Post</a></h2>
+Test post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc fermentum eget enim non commodo. Ut eu mi cursus eros suscipit pretium vel vel turpis. Sed a enim posuere, venenatis magna ac, venenatis dui. Nulla mollis leo eget leo adipiscing, non cursus diam sodales. Quisque pulvinar urna velit, a dapibus libero varius vitae. Phasellus sit amet sollicitudin sem. Praesent consequat suscipit justo vitae viverra. Praesent vulputate quis nulla at luctus. Duis magna ligula, adipiscing id mattis nec, cursus vel elit. Mauris facilisis, libero et volutpat lacinia, enim justo scelerisque eros, vel dapibus velit elit ac quam. Sed urna odio, hendrerit ut leo a, commodo feugiat libero. Praesent sit amet diam ac lectus consequat rhoncus vitae ut sem.</section>
+<section style="clear:both;"></section>
+<section id="full">
+<h2><a href="{{ site.url }}/assets/mydoc.pdf">Test Heading 2 In a Post</a></h2>
+Test post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc fermentum eget enim non commodo. Ut eu mi cursus eros suscipit pretium vel vel turpis. Sed a enim posuere, venenatis magna ac, venenatis dui. Nulla mollis leo eget leo adipiscing, non cursus diam sodales. Quisque pulvinar urna velit, a dapibus libero varius vitae. Phasellus sit amet sollicitudin sem. Praesent consequat suscipit justo vitae viverra. Praesent vulputate quis nulla at luctus. Duis magna ligula, adipiscing id mattis nec, cursus vel elit. Mauris facilisis, libero et volutpat lacinia, enim justo scelerisque eros, vel dapibus velit elit ac quam. Sed urna odio, hendrerit ut leo a, commodo feugiat libero. Praesent sit amet diam ac lectus consequat rhoncus vitae ut sem.</section>
